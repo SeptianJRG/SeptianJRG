@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeptianJRG
-- 👀 I’m interested in Computer Vision, Embedded System, Robotic
+- 👀 I’m interested in Computer Vision, Embedded System, Artifical Intelligent, Robotic
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on learn together to create or develop something IOT and Robot
 - 📫 How to reach me? Instagram: @sptianbgus
